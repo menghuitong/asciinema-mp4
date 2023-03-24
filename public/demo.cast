@@ -1,0 +1,566 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 44,
+  "duration": 42.333234,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/bash"
+  },
+  "stdout": [
+    [
+      0.242106,
+      "\u001b]0;root@VM-12-15-centos:/mm\u0007"
+    ],
+    [
+      0.025452,
+      "\u001b[?1034h[root@VM-12-15-centos mm]# "
+    ],
+    [
+      5.795469,
+      "\r\n\u001b]0;root@VM-12-15-centos:/mm\u0007[root@VM-12-15-centos mm]# "
+    ],
+    [
+      0.262762,
+      "l"
+    ],
+    [
+      0.139112,
+      "l"
+    ],
+    [
+      0.200166,
+      "\r\n"
+    ],
+    [
+      0.00147,
+      "total 28\r\n-rw-r--r-- 1 root root  88 Mar 19 00:59 0.txt\r\n-rw-r--r-- 1 root root  17 Mar 18 21:46 2.sh\r\n-rw-r--r-- 1 root root  35 Mar 18 21:46 a.sh\r\n-rw-r--r-- 1 root root  12 Mar 19 22:18 count.sh\r\n-rw-r--r-- 1 root root 344 Mar 19 22:18 count.txt\r\n-rw-r--r-- 1 root root   0 Mar 19 23:00 demo.cast\r\n-rw-r--r-- 1 root root   9 Mar 19 21:50 \u001b[0m\u001b[01;31mdevdash.tar.gz\u001b[0m\r\n-rw-r--r-- 1 root root 894 Mar 19 21:48 linux.sh\r\n"
+    ],
+    [
+      0.000261,
+      "\u001b]0;root@VM-12-15-centos:/mm\u0007[root@VM-12-15-centos mm]# "
+    ],
+    [
+      0.400185,
+      "\r\n\u001b]0;root@VM-12-15-centos:/mm\u0007[root@VM-12-15-centos mm]# "
+    ],
+    [
+      0.166021,
+      "\r\n\u001b]0;root@VM-12-15-centos:/mm\u0007[root@VM-12-15-centos mm]# "
+    ],
+    [
+      0.109827,
+      "c"
+    ],
+    [
+      0.07996,
+      "d"
+    ],
+    [
+      0.103982,
+      " "
+    ],
+    [
+      0.52905,
+      "/"
+    ],
+    [
+      0.19301,
+      "r"
+    ],
+    [
+      0.102008,
+      "o"
+    ],
+    [
+      0.147203,
+      "ot/"
+    ],
+    [
+      0.200902,
+      "\r\n\u001b]0;root@VM-12-15-centos:~\u0007[root@VM-12-15-centos ~]# "
+    ],
+    [
+      0.243886,
+      "l"
+    ],
+    [
+      0.15396,
+      "l"
+    ],
+    [
+      0.096344,
+      "\r\n"
+    ],
+    [
+      0.001848,
+      "total 3533904\r\n-rw-r--r--  1 root       root               10 Dec 17 01:22 1\r\nlrwxrwxrwx  1 root       root               29 Feb 24 00:52 \u001b[0m\u001b[01;36m111\u001b[0m -> \u001b[01;34mmengtong-webterminal-release/\u001b[0m\r\n-rw-r--r--  1 root       root                8 Dec 17 01:23 2\r\n-rw-------  1 root       root          5836800 Nov 20 19:47 \u001b[01;31malpine.tar\u001b[0m\r\n-rw-r--r--  1 root       root            10215 Dec 17 14:18 a.txt\r\n-rw-r--r--  1 root       root            10240 Oct  2 18:15 dd.1\r\ndrwxr-xr-x  2 root       root             4096 Feb 12 17:32 \u001b[01;34mdocker-compose-study\u001b[0m\r\ndrwxr-xr-x  2 root       root             4096 Nov 21 18:44 \u001b[01;34mgithub\u001b[0m\r\n-rw-r--r--  1 root       root        148907134 Nov 26 00:40 \u001b[01;31mgo1.19.3.linux-amd64.tar.gz\u001b[0m\r\n-rw-------  1 root       root        374975488 Mar  6 17:14 \u001b[01;31mhalo-2.3.0.tar\u001b[0m\r\n-rw-r--r--  1 root       root            46764 Jan  2 01:15 history.log\r\ndrwxr-xr-x  6 root       root             4096 Mar 19 15:27 \u001b[01;34mjsoncrack\u001b[0m\r\ndrwxr-xr-x  5 root   "
+    ],
+    [
+      1.7e-05,
+      "    root             4096 Mar 12 19:31 \u001b[01;34mjsoncrack.com-2.8.0\u001b[0m\r\n-rw-r--r--  1 root       root          1004408 Mar 19 15:38 \u001b[01;31mjsoncrack.com-2.8.0.zip\u001b[0m\r\n-rw-r--r--  1 root       root         12440970 Mar 19 15:28 \u001b[01;31mjsoncrack.zip\u001b[0m\r\ndrwxr-xr-x  5 root       root             4096 Mar 14 12:45 \u001b[01;34mjuejin-web-terminal\u001b[0m\r\n-rw-r--r--  1 root       root           797439 Mar 14 12:45 \u001b[01;31mjuejin-web-terminal.tar.gz\u001b[0m\r\n-rw-------  1 root       root         83522560 Feb  7 17:54 \u001b[01;31mlinuxserver-fail2ban-1.0.2.tar\u001b[0m\r\n-rw-------  1 root       root       2080254464 Feb 11 12:11 manimcommunity-manim-latest.img\r\ndrwxr-xr-x 19 root       root             4096 Jan  2 00:46 \u001b[01;34mman-pages\u001b[0m\r\ndrwxrwxrwx  5 lighthouse lighthouse       4096 Jan  2 00:58 \u001b[34;42mmanpages-zh-1.5.1\u001b[0m\r\n-rw-r--r--  1 root       root          1965336 Dec 17  2010 \u001b[01;31mmanpages-zh-1.5.1.tar.gz\u001b[0m\r\ndrwxrwxr-x  6 root       root             4096 Oct  1  2021 \u001b[01;34mmanpages-zh-1.6.3.6\u001b[0m\r\n-rw-------  1"
+    ],
+    [
+      1.3e-05,
+      " root       root         53212672 Mar  4 00:31 \u001b[01;31mmayfly-go-1.4.0.tar\u001b[0m\r\ndrwxr-xr-x  5 root       root             4096 Nov 26 00:45 \u001b[01;34mmemo\u001b[0m\r\n-rw-r--r--  1 root       root          1228755 Nov 26 00:44 \u001b[01;31mmemo.zip\u001b[0m\r\ndrwxr-xr-x 25 root       root             4096 Nov 21 09:45 \u001b[01;34mmengtong-gaoji\u001b[0m\r\ndrwxr-xr-x 63 root       root             4096 Nov 27 23:54 \u001b[01;34mmengtong-go\u001b[0m\r\ndrwxr-xr-x 26 root       root             4096 Mar 18 10:48 \u001b[01;34mmengtong-webterminal-release\u001b[0m\r\ndrwxr-xr-x  2 root       root             4096 Feb 24 00:40 \u001b[01;34mmq集群\u001b[0m\r\n-rw-r--r--  1 root       root          7201656 Feb 24 00:51 \u001b[01;31mmq集群.zip\u001b[0m\r\n-rw-------  1 root       root        114279936 Mar 16 20:23 \u001b[01;31mnode-16.15.0-alpine.tar\u001b[0m\r\n-rw-------  1 root       root        384317952 Feb  9 13:50 \u001b[01;31mpostgres-14.5.tar\u001b[0m\r\n-rw-r--r--  1 root       root            24293 Jan  2 01:00 proc.5.txt\r\ndrwxr-xr-x 60 root       root             4096 Mar 16 10:39 \u001b[01;34mqemu\u001b[0m\r\n-rw"
+    ],
+    [
+      1e-05,
+      "-r--r--  1 root       root        308785398 Mar 16 10:38 \u001b[01;31mqemu.tar.gz\u001b[0m\r\ndrwxr-xr-x  5 root       root             4096 Mar  1 00:46 \u001b[01;34mtianxia\u001b[0m\r\ndrwxr-xr-x  9 root       root             4096 Mar 14 15:58 \u001b[01;34mttyd\u001b[0m\r\n-rw-r--r--  1 root       root         19203147 Mar 14 15:58 \u001b[01;31mttyd.tar.gz\u001b[0m\r\n-rw-r--r--  1 root       root              981 Jan  2 01:08 \u001b[01;31mv1.6.3.6.tar.gz\u001b[0m\r\n-rw-r--r--  1 root       root              981 Jan  2 01:09 v1.6.3.6.tar.gz.1\r\n-rw-r--r--  1 root       root          1861327 Oct 27  2021 v1.6.3.6.tar.gz.2\r\ndrwxr-xr-x 15 root       root             4096 Mar 14 12:38 \u001b[01;34mxterm.js\u001b[0m\r\n-rw-r--r--  1 root       root         18672044 Mar 14 12:40 \u001b[01;31mxterm.js.tar.gz\u001b[0m\r\n-rw-r--r--  1 root       root               46 Jul  9  2022 yhy.txt\r\ndrwxr-xr-x  2 root       root             4096 Jul  9  2022 \u001b[01;34myu\u001b[0m\r\n"
+    ],
+    [
+      0.000222,
+      "\u001b]0;root@VM-12-15-centos:~\u0007[root@VM-12-15-centos ~]# "
+    ],
+    [
+      0.131557,
+      "c"
+    ],
+    [
+      0.043837,
+      "d"
+    ],
+    [
+      0.103228,
+      " "
+    ],
+    [
+      0.60692,
+      "1"
+    ],
+    [
+      0.150044,
+      "1"
+    ],
+    [
+      0.185988,
+      "1"
+    ],
+    [
+      0.25016,
+      "/"
+    ],
+    [
+      0.325458,
+      "\r\n\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      0.366631,
+      ";"
+    ],
+    [
+      0.601965,
+      "\b\u001b[K"
+    ],
+    [
+      0.238057,
+      "l"
+    ],
+    [
+      0.111967,
+      "l"
+    ],
+    [
+      0.154342,
+      "\r\n"
+    ],
+    [
+      0.008643,
+      "total 436\r\ndrwxr-xr-x  3 root root   4096 Mar 13 00:54 \u001b[0m\u001b[01;34mbest-english\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 14 16:42 \u001b[01;34mcmake\u001b[0m\r\n-rw-r--r--  1 root root     31 Feb 24 00:52 git.help.txt\r\ndrwxr-xr-x  3 root root   4096 Feb 28 19:36 \u001b[01;34mgo\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Mar 13 10:24 \u001b[01;34mgo-impl\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Feb 28 19:36 \u001b[01;34mgo-tianxia\u001b[0m\r\n-rw-r--r--  1 root root  18078 Feb 24 00:56 install.sh\r\ndrwxr-xr-x  4 root root   4096 Feb 24 00:52 \u001b[01;34mjava-impl\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Feb 24 00:52 \u001b[01;34mjava-webterminal\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Feb 24 00:52 \u001b[01;34mk8s\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Mar  3 17:21 \u001b[01;34mlinux\u001b[0m\r\ndrwxr-xr-x 12 root root   4096 Mar  9 19:20 \u001b[01;34mmanim-2023\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34mmarkdown\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 18 10:47 \u001b[01;34mmengtong-node-best\u001b[0m\r\ndrwxr-xr-x  6 root root   4096 Mar 18 10:47 \u001b[01;34mmy-website\u001b[0m\r\ndrwxr-xr-x  3 root root   "
+    ],
+    [
+      2.6e-05,
+      "4096 Feb 28 19:36 \u001b[01;34mnginx\u001b[0m\r\ndrwxr-xr-x 10 root root   4096 Feb 28 19:36 \u001b[01;34mothers\u001b[0m\r\n-rwxr-xr-x  1 root root     66 Mar  7 18:55 \u001b[01;32mpush.sh\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Feb 24 18:08 \u001b[01;34mrabbitmq\u001b[0m\r\n-rw-r--r--  1 root root     58 Feb 24 00:52 README.bat\r\n-rw-r--r--  1 root root     16 Feb 24 00:52 README-p.bat\r\n-rw-r--r--  1 root root     17 Feb 24 00:52 README-status.bat\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34mrp\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Feb 24 11:13 \u001b[01;34msshpass\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Mar 11 17:12 \u001b[01;34mtianxia\u001b[0m\r\ndrwxr-xr-x  4 root root   4096 Mar 17 18:18 \u001b[01;34mwebsocket\u001b[0m\r\n-rw-r--r--  1 root root 314688 Mar 18 10:48 \u001b[01;31mwebsocket.tar.gz\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Mar 17 18:18 \u001b[01;34mxterm\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34m计算机冷知识\u001b[0m\r\n"
+    ],
+    [
+      0.000252,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      0.149935,
+      "\r\n\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      0.168847,
+      "g"
+    ],
+    [
+      0.119996,
+      "i"
+    ],
+    [
+      0.086947,
+      "t"
+    ],
+    [
+      0.128013,
+      " "
+    ],
+    [
+      0.137043,
+      "s"
+    ],
+    [
+      0.151,
+      "t"
+    ],
+    [
+      0.103012,
+      "a"
+    ],
+    [
+      0.08894,
+      "t"
+    ],
+    [
+      0.109931,
+      "u"
+    ],
+    [
+      0.109016,
+      "s"
+    ],
+    [
+      0.21939,
+      "\r\n"
+    ],
+    [
+      1.524635,
+      "# On branch master\r\n"
+    ],
+    [
+      0.01606,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000231,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      1.850913,
+      "\r\n\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      0.313849,
+      "l"
+    ],
+    [
+      0.150969,
+      "l"
+    ],
+    [
+      0.144247,
+      "\r\n"
+    ],
+    [
+      0.001805,
+      "total 436\r\ndrwxr-xr-x  3 root root   4096 Mar 13 00:54 \u001b[0m\u001b[01;34mbest-english\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 14 16:42 \u001b[01;34mcmake\u001b[0m\r\n-rw-r--r--  1 root root     31 Feb 24 00:52 git.help.txt\r\ndrwxr-xr-x  3 root root   4096 Feb 28 19:36 \u001b[01;34mgo\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Mar 13 10:24 \u001b[01;34mgo-impl\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Feb 28 19:36 \u001b[01;34mgo-tianxia\u001b[0m\r\n-rw-r--r--  1 root root  18078 Feb 24 00:56 install.sh\r\ndrwxr-xr-x  4 root root   4096 Feb 24 00:52 \u001b[01;34mjava-impl\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Feb 24 00:52 \u001b[01;34mjava-webterminal\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Feb 24 00:52 \u001b[01;34mk8s\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Mar  3 17:21 \u001b[01;34mlinux\u001b[0m\r\ndrwxr-xr-x 12 root root   4096 Mar  9 19:20 \u001b[01;34mmanim-2023\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34mmarkdown\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 18 10:47 \u001b[01;34mmengtong-node-best\u001b[0m\r\ndrwxr-xr-x  6 root root   4096 Mar 18 10:47 \u001b[01;34mmy-website\u001b[0m\r\ndrwxr-xr-x  3 root root   "
+    ],
+    [
+      1.5e-05,
+      "4096 Feb 28 19:36 \u001b[01;34mnginx\u001b[0m\r\ndrwxr-xr-x 10 root root   4096 Feb 28 19:36 \u001b[01;34mothers\u001b[0m\r\n-rwxr-xr-x  1 root root     66 Mar  7 18:55 \u001b[01;32mpush.sh\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Feb 24 18:08 \u001b[01;34mrabbitmq\u001b[0m\r\n-rw-r--r--  1 root root     58 Feb 24 00:52 README.bat\r\n-rw-r--r--  1 root root     16 Feb 24 00:52 README-p.bat\r\n-rw-r--r--  1 root root     17 Feb 24 00:52 README-status.bat\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34mrp\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Feb 24 11:13 \u001b[01;34msshpass\u001b[0m\r\ndrwxr-xr-x  5 root root   4096 Mar 11 17:12 \u001b[01;34mtianxia\u001b[0m\r\ndrwxr-xr-x  4 root root   4096 Mar 17 18:18 \u001b[01;34mwebsocket\u001b[0m\r\n-rw-r--r--  1 root root 314688 Mar 18 10:48 \u001b[01;31mwebsocket.tar.gz\u001b[0m\r\ndrwxr-xr-x  3 root root   4096 Mar 17 18:18 \u001b[01;34mxterm\u001b[0m\r\ndrwxr-xr-x  2 root root   4096 Mar 13 00:54 \u001b[01;34m计算机冷知识\u001b[0m\r\n\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      0.308871,
+      "g"
+    ],
+    [
+      0.131084,
+      "i"
+    ],
+    [
+      0.079982,
+      "t"
+    ],
+    [
+      0.118003,
+      " "
+    ],
+    [
+      0.510957,
+      "p"
+    ],
+    [
+      0.220093,
+      "u"
+    ],
+    [
+      0.229952,
+      "l"
+    ],
+    [
+      0.120127,
+      "l"
+    ],
+    [
+      0.233214,
+      "\r\n"
+    ],
+    [
+      0.816208,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      0.000347,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      3.439385,
+      "t"
+    ],
+    [
+      0.246953,
+      "r"
+    ],
+    [
+      0.199079,
+      "e"
+    ],
+    [
+      0.144938,
+      "e"
+    ],
+    [
+      0.681994,
+      " "
+    ],
+    [
+      0.47199,
+      "s"
+    ],
+    [
+      0.158062,
+      "s"
+    ],
+    [
+      0.194984,
+      "hpass/"
+    ],
+    [
+      0.763044,
+      "p"
+    ],
+    [
+      0.466016,
+      "\b\u001b[K"
+    ],
+    [
+      0.472938,
+      " "
+    ],
+    [
+      0.269024,
+      "-"
+    ],
+    [
+      0.272954,
+      "L"
+    ],
+    [
+      0.146986,
+      " "
+    ],
+    [
+      0.541068,
+      "2"
+    ],
+    [
+      0.368536,
+      "\r\nbash: tree: command not found\r\n"
+    ],
+    [
+      0.000239,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      1.529522,
+      "y"
+    ],
+    [
+      0.053916,
+      "u"
+    ],
+    [
+      0.401054,
+      " "
+    ],
+    [
+      0.351069,
+      "\b\u001b[K"
+    ],
+    [
+      0.341894,
+      "m"
+    ],
+    [
+      0.087008,
+      " "
+    ],
+    [
+      0.131985,
+      "i"
+    ],
+    [
+      0.092981,
+      "n"
+    ],
+    [
+      0.109334,
+      "s"
+    ],
+    [
+      0.246739,
+      "t"
+    ],
+    [
+      0.173985,
+      "a"
+    ],
+    [
+      0.073976,
+      "l"
+    ],
+    [
+      0.100028,
+      "l"
+    ],
+    [
+      0.179974,
+      " "
+    ],
+    [
+      0.63104,
+      "t"
+    ],
+    [
+      0.189936,
+      "r"
+    ],
+    [
+      0.208044,
+      "e"
+    ],
+    [
+      0.168973,
+      "e"
+    ],
+    [
+      0.449026,
+      "\b"
+    ],
+    [
+      0.127057,
+      "\b"
+    ],
+    [
+      0.09597,
+      "\b"
+    ],
+    [
+      0.103998,
+      "\b"
+    ],
+    [
+      0.114959,
+      "\b"
+    ],
+    [
+      0.427113,
+      "\u001b[C tree\b\b\b\b\b"
+    ],
+    [
+      0.202971,
+      "- tree\b\b\b\b\b"
+    ],
+    [
+      0.280035,
+      "y tree\b\b\b\b\b"
+    ],
+    [
+      0.352264,
+      "\r\n"
+    ],
+    [
+      0.09679,
+      "Loaded plugins: fastestmirror, langpacks\r\n"
+    ],
+    [
+      0.013982,
+      "Loading mirror speeds from cached hostfile\r\n"
+    ],
+    [
+      0.301,
+      "Resolving Dependencies\r\n--> Running transaction check\r\n---> Package tree.x86_64 0:1.6.0-10.el7 will be installed\r\n"
+    ],
+    [
+      0.277012,
+      "--> Finished Dependency Resolution\r\n"
+    ],
+    [
+      0.18601,
+      "\r\nDependencies Resolved\r\n"
+    ],
+    [
+      0.004178,
+      "\r\n========================================================================================================================================================================\r\n Package                               Arch                                    Version                                        Repository                           Size\r\n========================================================================================================================================================================\r\nInstalling:\r\n tree                                  x86_64                                  1.6.0-10.el7                                   os                                   46 k\r\n\r\nTransaction Summary\r\n========================================================================================================================================================================\r\nInstall  1 Package\r\n\r\nTotal download size: 46 k\r\nInstalled size: 87 k\r\nDownloading packages:\r\n"
+    ],
+    [
+      0.047138,
+      "\rtree-1.6.0-10.el7.x86_64.rpm                                                                                                                     |  46 kB  00:00:00     \r\n"
+    ],
+    [
+      0.006632,
+      "Running transaction check\r\n"
+    ],
+    [
+      0.006987,
+      "Running transaction test\r\n"
+    ],
+    [
+      0.035053,
+      "Transaction test succeeded\r\nRunning transaction\r\n"
+    ],
+    [
+      0.082003,
+      "\r  Installing : tree-1.6.0-10.el7.x86_64 [                                                                                                                         ] 1/1"
+    ],
+    [
+      0.004259,
+      "\r  Installing : tree-1.6.0-10.el7.x86_64 [###################################################################################                                      ] 1/1\r  Installing : tree-1.6.0-10.el7.x86_64 [###########################################################################################################              ] 1/1\r  Installing : tree-1.6.0-10.el7.x86_64 [##################################################################################################################       ] 1/1\r  Installing : tree-1.6.0-10.el7.x86_64 [#######################################################################################################################  ] 1/1\r  Installing : tree-1.6.0-10.el7.x86_64                                                                                                                             1/1 \r\n"
+    ],
+    [
+      0.033592,
+      "\r  Verifying  : tree-1.6.0-10.el7.x86_64                                                                                                                             1/1 \r\n"
+    ],
+    [
+      0.157894,
+      "\r\nInstalled:\r\n  tree.x86_64 0:1.6.0-10.el7                                                                                                                                            \r\n\r\nComplete!\r\n"
+    ],
+    [
+      0.02003,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ],
+    [
+      3.252359,
+      "yum install -y tree"
+    ],
+    [
+      0.16298,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\u001b[1Ptree sshpass/ -L 2"
+    ],
+    [
+      0.763297,
+      "\r\n"
+    ],
+    [
+      0.000661,
+      "sshpass/\r\n└── sshpass.txt\r\n\r\n0 directories, 1 file\r\n"
+    ],
+    [
+      0.000261,
+      "\u001b]0;root@VM-12-15-centos:~/111\u0007[root@VM-12-15-centos 111]# "
+    ]
+  ]
+}

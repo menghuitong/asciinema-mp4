@@ -18,10 +18,10 @@ export const MyComposition = () => {
   useEffect(() => {
     if (playerRef.current) {
       const player = createPlayer(
-        staticFile('/test.cast'),
+        staticFile('/demo.cast'),
         playerRef.current,
         {
-          autoPlay: false,
+          autoPlay: true,
           fit: 'both',
           rows: 20,
           cols: 100,
@@ -37,10 +37,12 @@ export const MyComposition = () => {
       player.seek(time);
     }
   }, [frame, fps, player]);
-
+ 
+  const opacity = Math.min(1, frame / 60);
   return (
     <AbsoluteFill className="player-container items-center justify-center">
       <div ref={playerRef} id="player" />
+      <div style={{ opacity: opacity }}>Hello World!</div>
     </AbsoluteFill>
   );
 };
